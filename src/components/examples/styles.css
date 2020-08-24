@@ -1,0 +1,21 @@
+.examples {
+    width: 35vw;
+}
+
+.examples h2 {
+    color: #2F4550;
+    margin-bottom: 4vh;
+}
+.examples .example {
+    font-size: 1em;
+    margin-bottom: 5vh;
+}
+
+.examples .example .text{
+    margin-bottom: 10px;
+}
+
+.examples .example .font{
+    color: #586F7C;
+    font-style: italic;
+}

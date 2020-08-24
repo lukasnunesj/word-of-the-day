@@ -1,0 +1,30 @@
+.definitions {
+    width: 35vw;
+}
+.definitions .definition-item {
+    margin-bottom: 5vh;
+}
+
+.definitions .definition-item .source {
+    font-size: 1em;
+    font-style: italic;
+    color: #586F7C;
+}
+
+.definitions .definition-item hr {
+    margin-bottom: 15px;
+}
+
+.definitions .definition-item .definition {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+
+.definitions .definition-item .definition .classification {
+    font-family: Ubuntu;
+    font-style: italic;
+    color: #586F7C;
+    margin-right: 5px;
+    font-size: 1em;
+    font-weight: normal;
+}

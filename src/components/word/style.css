@@ -1,0 +1,20 @@
+
+.wordoftheday .word {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Ubuntu, sans-serif;
+    margin-bottom: 7vh;
+    color: #2F4550;
+}
+
+.wordoftheday .word .pronunciation {
+    font-size: 50%;
+    font-style: italic;
+    color: #586F7C;
+    margin-left: 15px;
+}
+
+.wordoftheday .word-info {
+    display: flex;
+    justify-content: space-between;
+}
