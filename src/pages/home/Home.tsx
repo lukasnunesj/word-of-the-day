@@ -1,7 +1,7 @@
 import React from "react";
 
 import Header from "../../components/header/Header";
-import Word from "../../components/word/Word";
+import WordContent from "../../components/word-content/WordContent";
 
 import "./style.css";
 
@@ -11,7 +11,7 @@ const Home = () => {
             <Header/>
             <main>
                 <div className="content">
-                    <Word/>
+                    <WordContent/>
                 </div>
             </main>
         </div>

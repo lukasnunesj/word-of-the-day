@@ -2,7 +2,7 @@ import React from "react";
 
 import "./styles.css"
 
-const Examples = () => {
+const WordExamples = () => {
     return (
         <div className="examples">
             <h2>Examples</h2>
@@ -22,4 +22,4 @@ const Examples = () => {
     );
 }
 
-export default Examples;
+export default WordExamples;
