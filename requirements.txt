@@ -1,0 +1,9 @@
+ele vai buscar uma palavra aleatoria em um endpoint
+ele vai verificar se a palavra já existe na base de dados
+    se existir ele irá escolher outra palavra
+ele vai bucar a pronuncia da palavra 
+    irá buscar no wordnick
+    se nao encontrar, ele vai buscar no merriam webster a pronuncia
+    se nao encontrar ele ira escolher outra palavra
+ele vai buscar definicoes
+ele vai buscar exemplos
