@@ -7,7 +7,7 @@ import WordExamples from "./word-examples/WordExamples";
 import {api_words, api_word} from "../../services/api";
 import Loading from "../loading/Loading";
 import Word from "./word/Word";
-import { log } from "console";
+
 
 const WordContent = () => {
     const [word, setWord] = useState('');

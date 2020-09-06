@@ -10,7 +10,7 @@ const Word = (props: Props) => {
         <div>
             <p className="word">
                 {props.word}
-                <span className="pronunciation" >{props.pronounce}</span>
+                <span className="pronunciation" data-testid="pronunciation">{props.pronounce}</span>
             </p>
         </div>
     )
